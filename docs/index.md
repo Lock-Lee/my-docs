@@ -1,11 +1,15 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD041 md022 -->
+
+---
+layout: raw
+---
 
 <script setup>
 if (typeof window !== 'undefined') {
   setTimeout(() => {
-    window.location.replace('/layouts/en')
-  }, 5000) // 1000 ms = 1 second
+    window.location.replace('/layouts/en');
+  }, 1000);
 }
 </script>
 
-Redirecting to English resume page...
+Redirecting to Resume EN...
