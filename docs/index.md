@@ -1,6 +1,11 @@
 <!-- markdownlint-disable MD033 MD041 -->
+
 <script setup>
 if (typeof window !== 'undefined') {
-  window.location.replace('/layouts/en')
+  setTimeout(() => {
+    window.location.replace('/layouts/en')
+  }, 1000) // 1000 ms = 1 second
 }
 </script>
+
+Redirecting to English resume page...
