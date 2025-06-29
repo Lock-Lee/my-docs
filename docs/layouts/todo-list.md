@@ -22,7 +22,6 @@
 - 📱 **Responsive design** for all screen sizes (mobile & desktop)
 - 🎨 **Modern and intuitive UI** for a smooth user experience
 
-
 ## Email Test
 
 ```ts
