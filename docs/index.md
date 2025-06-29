@@ -4,7 +4,7 @@
 if (typeof window !== 'undefined') {
   setTimeout(() => {
     window.location.replace('/layouts/en')
-  }, 1000) // 1000 ms = 1 second
+  }, 5000) // 1000 ms = 1 second
 }
 </script>
 
