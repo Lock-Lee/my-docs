@@ -1,12 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<script setup>
-  setTimeout(() => {
-if (typeof window !== 'undefined') {
-    window.location.reload();
 
-}
-  }, 1000);
-</script>
 <img src="/icons/annie.gif" alt="Thirawut Khanphan" width="100" height="80" style="border-radius:5%;" />
 
 <br/>
